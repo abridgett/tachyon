@@ -457,6 +457,7 @@
             <exclude>**/docs/**/*</exclude>
             <exclude>LICENSE</exclude>
             <exclude>NOTICE</exclude>
+            <exclude>debian/**</exclude>
 
             <!-- Default local file Exclusions -->
             <exclude>**/underFSStorage/**</exclude>
