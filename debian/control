@@ -1,0 +1,12 @@
+Source: tachyon
+Section: dev
+Priority: optional
+Maintainer: Ubuntu <ubuntu@unknown>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://tachyon-project.org
+
+Package: tachyon
+Architecture: all
+Description: Tachyon
+ A memory-centric distributed storage system.

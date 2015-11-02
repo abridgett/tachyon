@@ -1,0 +1,12 @@
+assembly/README.md opt/tachyon/assembly
+assembly/target/tachyon-assemblies-0.8.0-jar-with-dependencies.jar opt/tachyon/assembly/target
+bin opt/tachyon
+conf/core-site.xml.template etc/tachyon
+conf/log4j.properties etc/tachyon
+conf/metrics.properties.template etc/tachyon
+conf/tachyon-env.sh.template etc/tachyon
+conf/workers etc/tachyon
+common/target/classes/tachyon-default.properties etc/tachyon
+integration/bin opt/tachyon/integration
+libexec opt/tachyon
+debian/tachyon-layout.sh opt/tachyon/libexec
