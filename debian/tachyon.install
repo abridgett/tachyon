@@ -10,3 +10,4 @@ common/target/classes/tachyon-default.properties etc/tachyon
 integration/bin opt/tachyon/integration
 libexec opt/tachyon
 debian/tachyon-layout.sh opt/tachyon/libexec
+servers/src/main/webapp opt/tachyon/servers/src/main
